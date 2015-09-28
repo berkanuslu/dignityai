@@ -1,4 +1,4 @@
-var DignityAction = function () {
+function DignityAction() {
 	DignityObject.call(this);
 
     this.createObj = null;

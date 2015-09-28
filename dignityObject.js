@@ -1,4 +1,4 @@
-var DignityObject = function() {
+function DignityObject() {
     this.appContext = null;
     this.name = "";
     this.tag = "";

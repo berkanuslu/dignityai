@@ -1,4 +1,4 @@
-var DignityAIBase = function() {
+function DignityAIBase() {
 	DignityObject.call(this);
 
     this.parentObject = null;

@@ -1,4 +1,4 @@
-var DignityVehicle = function() {
+function DignityVehicle() {
 	DignityAIBase.call(this);
     
     this.engineLife = 100;

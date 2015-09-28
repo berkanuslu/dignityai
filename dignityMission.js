@@ -1,4 +1,4 @@
-var DignityMission = function() {
+function DignityMission() {
 	DignityObject.call(this);
 	this.desc = "";
         

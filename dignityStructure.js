@@ -1,4 +1,4 @@
-var DignityStructure = function() {
+function DignityStructure() {
 	DignityAIBase.call(this);
 
 	this.destroyable = true;

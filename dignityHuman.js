@@ -1,4 +1,4 @@
-var DignityHuman = function() {
+function DignityHuman() {
 	DignityAIBase.call(this);
 
 	this.senseEnemySpeed = 0;

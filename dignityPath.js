@@ -1,4 +1,4 @@
-var DignityPath = function() {
+function DignityPath() {
 	DignityObject.call(this);
 
 	this.from = [];

@@ -1,4 +1,4 @@
-var DignityAnimal = function() {
+function DignityAnimal() {
 	DignityAIBase.call(this);
 
 	this.type = "";
