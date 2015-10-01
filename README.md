@@ -5,9 +5,9 @@ DignityAI, is a software library which was developed to add AI dynamics to HTML5
 DignityAI First Demo: Tanx AI | [Play Demo](http://playcanv.as/p/qn9Cv0SO) - [View Demo Project](https://playcanvas.com/project/345467/overview/tanx-ai) - powered by [PlayCanvas Game Engine](http://www.playcanvas.com)
 
 ## Road Map
-* **Add missiongroup for missions repeat functionality for group
-* **Add DignityWatcher for watch objects all available properties and hit the action
-* **Add DignityState for state management and hit the action when change the state
+* Add missiongroup for missions repeat functionality for group
+* Add DignityWatcher for watch objects all available properties and hit the action
+* Add DignityState for state management and hit the action when change the state
 
 ## Authors
 
